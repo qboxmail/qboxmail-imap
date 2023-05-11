@@ -1,0 +1,46 @@
+{
+  "name": "qboxmail-imap",
+  "version": "0.8.26",
+  "author": "Brian White <mscdex@mscdex.net>",
+  "contributor": [
+    {
+      "name": "Matteo Mattei",
+      "email": "matteo.mattei@qboxmail.com",
+      "url": "https://www.qboxmail.com"
+    },
+    {
+      "name": "Filippo Verni",
+      "email": "filippo.verni@qboxmail.com",
+      "url": "https://www.qboxmail.com"
+    }
+  ],
+  "description": "An IMAP module for node.js that makes communicating with IMAP servers easy",
+  "main": "./lib/Connection",
+  "dependencies": {
+    "readable-stream": "1.1.x",
+    "utf7": ">=1.0.2"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "keywords": [
+    "imap",
+    "mail",
+    "email",
+    "reader",
+    "client"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/matteomattei/node-imap/raw/master/LICENSE"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/matteomattei/node-imap.git"
+  }
+}
