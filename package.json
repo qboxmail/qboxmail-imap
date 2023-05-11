@@ -1,6 +1,6 @@
 {
   "name": "qboxmail-imap",
-  "version": "0.8.26",
+  "version": "0.8.27",
   "author": "Brian White <mscdex@mscdex.net>",
   "contributor": [
     {
@@ -36,11 +36,11 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/matteomattei/node-imap/raw/master/LICENSE"
+      "url": "https://gitlab.com/qboxmail/node-imap/-/blob/main/LICENSE"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/matteomattei/node-imap.git"
+    "url": "https://gitlab.com/qboxmail/node-imap.git"
   }
 }
